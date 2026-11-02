@@ -1,0 +1,9 @@
+node_modules/
+__pycache__/
+.env*
+*.ipa
+*.deb
+*.p12
+*.p8
+*.mobileprovision
+*.pem
