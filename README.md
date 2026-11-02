@@ -1,6 +1,6 @@
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/profile-card-mobile.svg">
-  <img src="assets/profile-card.svg" alt="Maruf Khan (@arifular1f) — Developer Portfolio. iOS Developer, Cybersecurity Researcher, Red Team Operator and Software Engineer. Technical expertise and five project highlights; text details below.">
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/arifular1f/arifular1f/main/assets/profile-card-mobile.svg">
+  <img src="https://raw.githubusercontent.com/arifular1f/arifular1f/main/assets/profile-card.svg" alt="Maruf Khan (@arifular1f) — Developer Portfolio. iOS Developer, Cybersecurity Researcher, Red Team Operator and Software Engineer. Technical expertise and five project highlights; text details below.">
 </picture>
 
 <p align="center">
@@ -68,7 +68,7 @@ The infrastructure, Android and security entries are ongoing R&D overviews. Impl
 
 ## Public GitHub Activity
 
-![Public GitHub profile statistics for arifular1f](assets/github-stats.svg)
+![Public GitHub profile statistics for arifular1f](https://raw.githubusercontent.com/arifular1f/arifular1f/main/assets/github-stats.svg)
 
 The statistics card refreshes weekly from public profile data and includes its update date. View my [contribution activity](https://github.com/arifular1f?tab=overview) and [public repositories](https://github.com/arifular1f?tab=repositories).
 
